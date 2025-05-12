@@ -36,6 +36,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage medic
 
 ![Screenshot 2025-05-11 194314](https://github.com/user-attachments/assets/802c55ce-f6fb-4e93-bb10-7aa0f9378726)
 
+![Screenshot 2025-05-11 194338](https://github.com/user-attachments/assets/7f500953-3512-44a7-86b8-4b4c90ff1350)
+
 ![Screenshot 2025-05-11 194353](https://github.com/user-attachments/assets/6adbe6cb-a52a-4adb-b802-5888c929807a)
 
 ![Screenshot 2025-05-11 194417](https://github.com/user-attachments/assets/2b2ee7db-a58c-4303-9a9d-e8a47e6fc83b)
