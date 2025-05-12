@@ -23,6 +23,12 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage medic
 3. Run the frontend using `npm run dev`.
 4. Open your browser and go to `http://localhost:3000`.
 
+## License
+
+© 2025 Abhinav Lakhara. All rights reserved.
+
+This project is licensed under the [MIT License]
+
 
 ![Screenshot 2025-05-11 194022](https://github.com/user-attachments/assets/526ad60b-8a47-4c08-a7fd-1f249ae73064)
 
