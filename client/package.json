@@ -1,11 +1,11 @@
 {
-  "name": "rproject",
+  "name": "Medicare",
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Abhinav Lakhara",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "buffer": "^6.0.3",
@@ -18,5 +18,4 @@
     "react-router-dom": "^7.5.3",
     "react-time-picker": "^7.0.0"
   },
-  "type": "module"
 }
