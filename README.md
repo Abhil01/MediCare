@@ -3,14 +3,14 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage medic
 (Screenshot attached below)
 ### Note to Recruiters
 
-> This repository contains the core logic of my MERN-stack project *SyncVi*.  
+> This repository contains the core logic of my MERN-stack project Medicare.  
 > 
 > Please note that *CSS files and assets (images, icons, etc.) have been intentionally removed* from this public version to prevent unauthorized use or duplication.
 >
 > The complete project includes a fully designed user interface and all styling, which I can demonstrate upon request.
 >
-> If you're interested in a full walkthrough or live demo, feel free to contact me:  
-> *Email:* your.email@example.com  
+> If you're interested in a full walkthrough or live demo, please contact me:  
+> *Email:* lakharaabhinav@gmail.com
 
 ## Features
 
