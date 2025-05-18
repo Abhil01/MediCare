@@ -1,7 +1,17 @@
 # Medicare Application
-
 A full-stack MERN (MongoDB, Express, React, Node.js) application to manage medicines, track stock, and send reminders for medicine intake.
 (Screenshot attached below)
+### Note to Recruiters
+
+> This repository contains the core logic of my MERN-stack project *SyncVi*.  
+> 
+> Please note that *CSS files and assets (images, icons, etc.) have been intentionally removed* from this public version to prevent unauthorized use or duplication.
+>
+> The complete project includes a fully designed user interface and all styling, which I can demonstrate upon request.
+>
+> If you're interested in a full walkthrough or live demo, feel free to contact me:  
+> *Email:* your.email@example.com  
+
 ## Features
 
 - User Authentication (Login, Signup)
