@@ -1,6 +1,10 @@
 # Medicare Application
 A full-stack MERN (MongoDB, Express, React, Node.js) application to manage medicines, track stock, and send reminders for medicine intake.
 (Screenshot attached below)
+
+# Project Video
+[Watch Demo on Google Drive](https://drive.google.com/file/d/11OkrIXcSvqMCGv0-fD-CCXbtOhU7E9A0/view?usp=drivesdk)
+
 ### Note to Recruiters
 
 > This repository contains the core logic of my MERN-stack project Medicare.  
